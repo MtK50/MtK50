@@ -19,7 +19,7 @@
   <a href="https://www.linkedin.com/in/kylian-maillard/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
   </a>
-  <a href="discord.com/users/202500419388178432" target="_blank">
+  <a href="https://www.discord.com/users/202500419388178432" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="35" alt="discord logo"  />
   </a>
   <a href="mailto:kylian.maillard50@gmail.com?" target="_blank">
