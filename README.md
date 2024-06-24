@@ -60,16 +60,5 @@
   <br>- ⚡ In my free time, I learn more things and read tech articles.<br>
   <br>- 📧 How to reach me: via Linkedin or EMail</p>
 
-###
-
-<img src="https://raw.githubusercontent.com/MtK50/MtK50/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/misteurkiwi">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=misteurkiwi&count=5&unique=true&width=700" alt="Spotify recently played"  />
-  </a>
-</div>
 
 ###
